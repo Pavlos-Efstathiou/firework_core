@@ -1,0 +1,2 @@
+let bool_to_string (a: bool): str = if bool_eq(a, true) do "true" else "false"
+let ! (n: bool): bool = if bool_eq(a, true) do false else true
